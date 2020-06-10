@@ -8,7 +8,7 @@
 
 **Control flow graph**
 
-https://github.com/anaangelova/SI_lab2_183016/blob/master/Untitled%20Diagram.jpg?raw=true
+<img src="https://github.com/anaangelova/SI_lab2_183016/blob/master/Untitled%20Diagram.jpg?raw=true"
 
 **Цикломатска комплексност**
 
